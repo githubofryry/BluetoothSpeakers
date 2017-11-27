@@ -7,7 +7,7 @@ CENG317 - Hardware Tech.
 ### November 27, 2017
 
 Strike is done. 
-  * Still have yet soldering my PCB
+  * Still have yet soldering my PCB (Will be doing this today and on Novemeber 30, 2017)
   * Having a shipping issue with my parts. May have to order it somewhere else.
 
 ### October 16, 2017
