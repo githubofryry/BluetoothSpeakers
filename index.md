@@ -1,7 +1,7 @@
-### Project: B - Speakers
+### Project B: Speakers
 ### Ryan Antolin
 ### N01100308
-### CENG317 - Hardware Tech.
+### CENG317 Hardware Tech.
 
 ### November 27, 2017
 
@@ -42,3 +42,4 @@ And also [website](https://githubofryry.github.io/BluetoothSpeakers/).
 ### August 30, 2017
 
 Welcome!
+My name is Ryan Antolin. This is my blog post about Project B: Speakers
