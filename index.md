@@ -35,8 +35,7 @@ Created [proposal](https://github.com/githubofryry/BluetoothSpeakers/blob/master
 
 ### September 11, 2017
 
-Created [repository](https://github.com/githubofryry/).
-And also [website](https://githubofryry.github.io/BluetoothSpeakers/).
+Created [repository](https://github.com/githubofryry/) also [website](https://githubofryry.github.io/BluetoothSpeakers/).
 
 ### August 30, 2017
 
