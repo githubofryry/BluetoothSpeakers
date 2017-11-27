@@ -5,7 +5,7 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
+Project: B - Speakers
 -------------
 
  
@@ -13,15 +13,16 @@ Example Blog.
 ### September 20, 2017
 
 Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
-![Image of Schedule](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/documentation/Week3RubricforProjectSchedule.jpg)
+
 
 ### September 13, 2017
 
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
+Created [proposal](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/BluetoothSpeakers-RyanAntolin.xlsx).
 
 ### September 6, 2017
 
-Created [repository](https://github.com/six0four/StudentSenseHat). Also generated a quiz.
+Created [repository](https://github.com/githubofryry/).
+And also [website](https://githubofryry.github.io/BluetoothSpeakers/).
 
 ### August 30, 2017
 
