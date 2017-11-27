@@ -1,8 +1,8 @@
-Project: B - Speakers
-Ryan Antolin
-N01100308
-CENG317 - Hardware Tech.
--------------
+### Project: B - Speakers
+### Ryan Antolin
+### N01100308
+### CENG317 - Hardware Tech.
+### -------------
 
 ### November 27, 2017
 
