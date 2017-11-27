@@ -2,7 +2,6 @@
 ### Ryan Antolin
 ### N01100308
 ### CENG317 - Hardware Tech.
-### -------------
 
 ### November 27, 2017
 
