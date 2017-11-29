@@ -9,6 +9,10 @@ Strike is done.
   * Still have yet soldering my PCB (Will be doing this today and on Novemeber 30, 2017)
   * Having a shipping issue with my parts. May have to order it somewhere else.
   
+  Edit 1 ### November 29, 2017
+  After going through a phone call with Adafruit, it seems that they the order was invalid and did not ship my items.
+  So they told me they were going to refund my money and try to pay via paypal this time. I will trust them a 2nd time because I only buy the ampilifer there. Here is a confirmation email. [Image](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/chrome_2017-11-29_00-21-27.png)
+  
 ### October 16, 2017
 
 Strike is declared. Not sure what is going on but I should be getting my PCB board done.
