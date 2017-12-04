@@ -30,7 +30,7 @@ Strike is declared. Not sure what is going on but I should be getting my PCB boa
 ### October 9, 2017
 
 Reading Days. Did not really get anything done
-  * Bought my raspberry pi
+  * Bought my raspberry [pi]()
   * Still awaiting for my other parts
 
 ### October 2, 2017
