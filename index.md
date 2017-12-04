@@ -3,6 +3,14 @@
 ### N01100308
 ### CENG317 Hardware Tech.
 
+### December 4th, 2017
+PCB Board
+  * traffic2B - LED was blinking when the program ran. It went successful.
+  * ghmain - While the program was running, the sensor detected the light whenever someone tries to cover the sensor.
+Here are images from today's lab before testing.
+[PCB](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4425.JPG)
+[Pi](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4426.JPG)
+
 ### November 29, 2017
   After going through a phone call with Adafruit, it seems that they the order was invalid and did not ship my items.
   So they told me they were going to refund my money and try to pay via paypal this time. I will trust them a 2nd time because I only can  buy the ampilifer there. Here is a confirmation email. [Image](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/chrome_2017-11-29_00-21-27.png)
