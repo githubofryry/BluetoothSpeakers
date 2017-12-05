@@ -35,7 +35,7 @@ Reading Days. Did not really get anything done
 
 ### October 2, 2017
 
-Created [Budget Planner](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/ProjectPlanner-ryry.mpp)
+Created [Budget Planner](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/CENG317-Budget-RyanAntolin.xlsx)
 
 ### September 25, 2017
 
