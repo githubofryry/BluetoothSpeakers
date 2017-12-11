@@ -6,6 +6,7 @@
 ### December 11th, 2017
   * [Placecard](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/placard%20group.png)
   * [Script](https://docs.google.com/document/d/1264OZkJo4D0dwGhqtUrtcNESNxeI9OcCn2OvMoThmCk/edit?usp=sharing)
+  
 ### December 4th, 2017
 PCB Board
   * traffic2B - LED was blinking when the program ran. It went successful.
