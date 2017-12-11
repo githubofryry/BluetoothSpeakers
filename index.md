@@ -56,5 +56,5 @@ Created [repository](https://github.com/githubofryry/) and also [website](https:
 
 ### August 30, 2017
 
-Welcome!!!
+Welcome!!
 My name is Ryan Antolin. This is my blog post about Project B: Speakers.
