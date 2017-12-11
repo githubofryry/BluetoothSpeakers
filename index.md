@@ -4,9 +4,10 @@
 ### CENG317 Hardware Tech.
 
 ### December 11th, 2017
+All the parts are ready to be soldered this week. Can't wait to get this running by next week.
   * [Placecard](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/placard%20group.png)
   * [Script](https://docs.google.com/document/d/1264OZkJo4D0dwGhqtUrtcNESNxeI9OcCn2OvMoThmCk/edit?usp=sharing)
-All the parts are ready to be soldered this week. Can't wait to get this running by next week.
+
   
 ### December 4th, 2017
 PCB Board
