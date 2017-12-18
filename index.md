@@ -4,7 +4,11 @@
 
 ### Decemebr 18th, 2017
 30 Second Build Video!
+
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TTZWjjKDbzE/0.jpg)](http://www.youtube.com/watch?v=TTZWjjKDbzE)
+
+
 
 ### December 11th, 2017
 All the parts are ready to be soldered this week. Can't wait to get this running by next week.
