@@ -14,7 +14,7 @@ A day late on the blog post but here is my Progress Report!
 
 
 ### Decemebr 18th, 2017
-30 Second Build Video!
+30 Second Build Video!!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TTZWjjKDbzE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
