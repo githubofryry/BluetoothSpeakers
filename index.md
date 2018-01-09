@@ -2,6 +2,17 @@
 ### Ryan Antolin
 ### CENG317 Hardware Tech.
 
+### January 9th, 2018
+
+A day late on the blog post but here is my Progress Report!
+
+* The applications that I used for this project is [MPG123](https://www.mpg123.de), and [mpyst(youtube player)](https://github.com/mps-youtube/mps-youtube
+).
+* [Link to where I followed to make this project working](https://learn.adafruit.com/adafruit-speaker-bonnet-for-raspberry-pi/overview) 
+* Current Progress: I am basically done but I have to consider to stop using alligator clips and make a box for the speaker if I have time.
+* Financial Update: Only need to about $10 on wood and laser printing or I can find left over wood around campus and go to the prototype lab.
+
+
 ### Decemebr 18th, 2017
 30 Second Build Video!
 
