@@ -2,6 +2,12 @@
 ### Ryan Antolin
 ### CENG317 Hardware Tech.
 
+### January 15th, 2018
+Presentation day
+
+[Powerpoint](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/CENG317-Presentation-RyanAntolin.pptx)
+
+
 ### January 9th, 2018
 
 A day late on the blog post but here is my Progress Report!
