@@ -3,10 +3,10 @@
 ![Image of Speaker Bonnet](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4650.JPG?raw=true)
 
 ## Table of Contents
-1. Introduction
-2. What you will need
-3. Assembly
-4. Software Setup
+1. [Introduction] (#introduction)
+2. [What you will need](#what-you-will-need)
+3. [Assembly](#assembly)
+4. [Software Setup](#software-setup)
 
 
 ### Introduction
