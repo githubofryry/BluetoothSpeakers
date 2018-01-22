@@ -26,7 +26,8 @@ If you already have a micro SD card and do not care about the case then you coul
 
 [Link](https://www.amazon.ca/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_4?s=electronics&ie=UTF8&qid=1516598053&sr=1-4&keywords=raspberry+pi+3)
 
-![Speaker Bonnet](https://www.adafruit.com/product/3346)
+Speaker Bonnet
+![Speaker Bonnet](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4652.JPG?raw=true)
 
 Either a ![8ohm 1W speaker](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4653.JPG?raw=true) 
 or 4ohm 3W speaker 
@@ -36,8 +37,10 @@ or 4ohm 3W speaker
 [Link for the 8ohm 1W speaker](https://www.adafruit.com/product/1313)
 [Link for the 4ohm 3W speaker](https://www.adafruit.com/product/1314)
 
+2 Jumper Cables
 ![2 Jumper Cables](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4654.JPG?raw=true)
 
+2 Alligator clips
 ![2 Alligator clips](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4655.JPG?raw=true)
 
 
