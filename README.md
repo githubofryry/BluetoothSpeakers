@@ -18,7 +18,7 @@ This build instruction will teach you how to build your own Speaker Bonnet!
 
 What will you need for this:
 
-![A raspberry pi]()
+![A raspberry pi](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4651.JPG?raw=true)
 
 [Link for the raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=electronics&ie=UTF8&qid=1516598053&sr=1-5&keywords=raspberry+pi+3)
 
@@ -28,7 +28,7 @@ If you already have a micro SD card and do not care about the case then you coul
 
 ![Speaker Bonnet](https://www.adafruit.com/product/3346)
 
-Either a ![8ohm 1W speaker]() 
+Either a ![8ohm 1W speaker](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4653.JPG?raw=true) 
 or 4ohm 3W speaker 
 
 (Will be using the 8ohm 1W for this project)
@@ -36,11 +36,9 @@ or 4ohm 3W speaker
 [Link for the 8ohm 1W speaker](https://www.adafruit.com/product/1313)
 [Link for the 4ohm 3W speaker](https://www.adafruit.com/product/1314)
 
-![2 Jumper Cables]()
+![2 Jumper Cables](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4654.JPG?raw=true)
 
-![2 Alligator clips]()
-
-
+![2 Alligator clips](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4655.JPG?raw=true)
 
 
 
