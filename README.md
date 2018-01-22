@@ -4,17 +4,18 @@
 
 ## Table of Contents
 1. Introduction
-2. Speaker Bonnent Specifications
-3. Speaker Bonnent Assembly
-4. Speaker Bonnent Code
+2. What you will need
+3. Assembly
+4. Software Setup
 
 
 ### Introduction
 
 The Speaker Bonnet is a stereo amplifier for the Raspberry Pi. This Speaker Bonnet is used for audio for any UNIX-like OS.
 This build instruction will teach you how to build your own Speaker Bonnet!
+For the music player, we will be using mpg123 for this project. 
 
-### Speaker Bonnent Specifications
+### What you will need
 
 What will you need for this:
 
@@ -45,9 +46,20 @@ or 4ohm 3W speaker
 
 
 
-### Speaker Bonnent Assembly
+### Assembly
+
+First what you will need to do is solder the parts given to your the speaker bonnet. If you are not confident on 
+soldering then I would suggest to watch youtube videos on it first before attempting to solder. 
+[Soldering Tutorial](https://www.youtube.com/watch?v=AqvHogekDI4)
+
+Now when you know how to solder, go ahead and solder the 20 pin and the right/left terminals on the back of the border.
+I suggest to do this one part at a time and take your time soldering.
+It should look like this when completed.
+
+![Pic1](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4656.JPG?raw=true)
+
+![Pic2](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4657.JPG?raw=true)
 
 
 
-
-### Speaker Bonnent Code
+### Software Setup
