@@ -28,7 +28,10 @@ If you already have a micro SD card and do not care about the case then you coul
 
 ![Speaker Bonnet](https://www.adafruit.com/product/3346)
 
-![Either a 8ohm 1W speaker or 4ohm 3W speaker]()
+Either a ![8ohm 1W speaker]() 
+or 4ohm 3W speaker 
+
+(Will be using the 8ohm 1W for this project)
 
 [Link for the 8ohm 1W speaker](https://www.adafruit.com/product/1313)
 [Link for the 4ohm 3W speaker](https://www.adafruit.com/product/1314)
