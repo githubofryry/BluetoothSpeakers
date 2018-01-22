@@ -88,14 +88,14 @@ Now install Raspbian on your Pi (I already have it installed but here is a [vide
 
 Once you are on Raspbian, you can either press Ctrl + Alt + T for the terminal or click the black box that has a blue header and inside of it has >_.
 
-![Pic9]()
+![Pic9](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/2018-01-22-153723_1824x984_scrot.png?raw=true)
 
-Now that you are on the terminal, you will need the scripts to install the drivers for the Speaker Bonnet. The scripts I used are the one on adafruit. You can however do an advanced version yourself if you know what you are doing. 
+Now that you are on the terminal, you will need the scripts to install the drivers for the Speaker Bonnet. The scripts I used are the one on adafruit. You can however do an advanced version yourself if you know what you are doing. [Reference](https://learn.adafruit.com/adafruit-speaker-bonnet-for-raspberry-pi/raspberry-pi-usage)
 So this is what you will be entering on the terminal.
 
 curl -sS https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/i2amp.sh | bash
 
-![Pic10]()
+![Pic10](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/2018-01-22-154135_1824x984_scrot.png?raw=true)
 
 Since I already installed the driver, it should ask to reboot your Pi after installing. 
 
@@ -104,10 +104,20 @@ the media player for the Pi.
 
 type in the terminal: sudo get-apt install -y mpg123
 
-![Pic11]()
+![Pic11](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/2018-01-22-154857_1824x984_scrot.png?raw=true)
 
 Now once you are done, you should be able to play your music now via mp123. But if you are going to use your own music, then
 I suggest you either transfer the music files onto the SD card via USB Transfer so that you do not have to download anything on the Pi. 
 (Be sure that the files do not have spaces and they are replaces with dashses like this -. The reason I say this is because when we go on the terminal and have to type the song name, you will see how difficult it will be since spaces on UNIX based operating systems are not the same as on Windows Operating systems.)
+
+So the usage on the terminal would be: mpg123 songfile.
+
+![Pic12](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/2018-01-22-160400_1824x984_scrot.png?raw=true)
+
+And now the song should be playing through the speaker. 
+
+Like this!
+
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 177.228%;"><iframe src="https://streamable.com/s/cy5go/iueict" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
  
