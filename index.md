@@ -2,6 +2,11 @@
 ### Ryan Antolin
 ### CENG317 Hardware Tech.
 
+### January 21st, 2018
+Last day of CENG317
+
+[Build Instructions](https://github.com/githubofryry/BluetoothSpeakers/blob/master/README.md)
+
 ### January 15th, 2018
 Presentation day
 
