@@ -116,8 +116,4 @@ So the usage on the terminal would be: mpg123 songfile.
 
 And now the song should be playing through the speaker. 
 
-Like this!
-
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 177.228%;"><iframe src="https://streamable.com/s/cy5go/iueict" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
-
- 
+[Like this!](https://streamable.com/cy5go) 
