@@ -67,10 +67,18 @@ Once the Speaker Bonnet is soldered, then you can now start hooking it up to the
 
 Insert the Speaker Bonnet on the 20pin of the Raspberry Pi
 ![Pic3]()
+![Pic4]()
 
-Then get the jumper cables and plug them accordingly into the terminal (+ = red jumper, - = black jumper | You can use any colour but I recommend using red and black for quality of life). If you can manage 
+Then get the jumper cables, plug them accordingly into the terminal, and then screw them in (+ = red jumper, - = black jumper | You can use any colour but I recommend using red and black for quality of life). If you are able to obtain 2 speakers then add the 2nd speaker on the other terminal.
+![Pic5]()
+
+Now get your alligator clips and plug them accordingly (red = positive, black = negative). 
+![Pic6]()
+
+Grab the speaker you will be using (mines the 8ohm 1W) and connect it to the positve and negative with the other end of the alligator clips.
+![Pic7]()
 
 
-
+Now once you have everything connected, you can do the software setup!
 
 ### Software Setup
