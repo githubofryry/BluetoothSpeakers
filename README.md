@@ -19,6 +19,8 @@ This build instruction will teach you how to build your own Speaker Bonnet!
 What will you need for this:
 
 ![A raspberry pi]()
+
+
 [Link for the raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=electronics&ie=UTF8&qid=1516598053&sr=1-5&keywords=raspberry+pi+3)
 If you already have a micro SD card and do not care about the case then you could just buy the Raspberry Pi itself[Link](https://www.amazon.ca/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_4?s=electronics&ie=UTF8&qid=1516598053&sr=1-4&keywords=raspberry+pi+3)
 
