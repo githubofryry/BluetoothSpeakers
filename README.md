@@ -1,6 +1,6 @@
 # Speaker Bonnent
 
-[Image of Speaker Bonnet](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4650.JPG?raw=true)
+![Image of Speaker Bonnet](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4650.JPG?raw=true)
 
 ## Table of Contents
 1. Introduction
