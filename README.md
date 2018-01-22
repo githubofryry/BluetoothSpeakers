@@ -33,7 +33,7 @@ If you already have a micro SD card and do not care about the case then you coul
 Speaker Bonnet
 ![Speaker Bonnet](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4652.JPG?raw=true)
 
-Either a ![8ohm 1W speaker](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4653.JPG?raw=true) 
+Either a 8ohm 1W speaker ![8ohm 1W speaker](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4653.JPG?raw=true) 
 or 4ohm 3W speaker 
 
 (Will be using the 8ohm 1W for this project)
@@ -66,17 +66,18 @@ It should look like this when completed.
 Once the Speaker Bonnet is soldered, then you can now start hooking it up to the Pi and Speakers.
 
 Insert the Speaker Bonnet on the 20pin of the Raspberry Pi
-![Pic3]()
-![Pic4]()
+![Pic3](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4658.JPG?raw=true)
+![Pic4](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4659.JPG?raw=true)
 
 Then get the jumper cables, plug them accordingly into the terminal, and then screw them in (+ = red jumper, - = black jumper | You can use any colour but I recommend using red and black for quality of life). If you are able to obtain 2 speakers then add the 2nd speaker on the other terminal.
-![Pic5]()
+![Pic5](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4660.JPG?raw=true)
 
 Now get your alligator clips and plug them accordingly (red = positive, black = negative). 
-![Pic6]()
+![Pic6](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4661.JPG?raw=true)
 
 Grab the speaker you will be using (mines the 8ohm 1W) and connect it to the positve and negative with the other end of the alligator clips.
-![Pic7]()
+![Pic7](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4662.JPG?raw=true)
+![Pic8](https://github.com/githubofryry/BluetoothSpeakers/blob/master/documentation/IMG_4663.JPG?raw=true)
 
 
 Now once you have everything connected, you can do the software setup!
