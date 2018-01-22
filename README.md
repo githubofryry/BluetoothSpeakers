@@ -83,3 +83,31 @@ Grab the speaker you will be using (mines the 8ohm 1W) and connect it to the pos
 Now once you have everything connected, you can do the software setup!
 
 ### Software Setup
+
+Now install Raspbian on your Pi (I already have it installed but here is a [video](https://www.youtube.com/watch?v=GJDIgS8nres) on that). If you bought the CanaKit Raspberry Pi, Raspbian should be already on the SD card. All you would need to do is connect it to Wi-Fi or Ethernet internet connection in order to get it installed.
+
+Once you are on Raspbian, you can either press Ctrl + Alt + T for the terminal or click the black box that has a blue header and inside of it has >_.
+
+![Pic9]()
+
+Now that you are on the terminal, you will need the scripts to install the drivers for the Speaker Bonnet. The scripts I used are the one on adafruit. You can however do an advanced version yourself if you know what you are doing. 
+So this is what you will be entering on the terminal.
+
+curl -sS https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/i2amp.sh | bash
+
+![Pic10]()
+
+Since I already installed the driver, it should ask to reboot your Pi after installing. 
+
+Once the Pi is rebooted, you should now be able to use the speakers. Now go back to your terminal and download mpg123 which is
+the media player for the Pi. 
+
+type in the terminal: sudo get-apt install -y mpg123
+
+![Pic11]()
+
+Now once you are done, you should be able to play your music now via mp123. But if you are going to use your own music, then
+I suggest you either transfer the music files onto the SD card via USB Transfer so that you do not have to download anything on the Pi. 
+(Be sure that the files do not have spaces and they are replaces with dashses like this -. The reason I say this is because when we go on the terminal and have to type the song name, you will see how difficult it will be since spaces on UNIX based operating systems are not the same as on Windows Operating systems.)
+
+ 
